@@ -1,5 +1,6 @@
 # Gameloop
 ## Authors: (Bryan) Bo Cao, Chuyi Liu
+## Github Account: BryanBo-Cao, Chu93
 
 Assignment 2 Submission
 There was an error with the initial assignment 2 submission process, which necessitated creating a new submission form. Please submit your assignment 2 solutions here. The assignment 2 text is copied below for clarity:
